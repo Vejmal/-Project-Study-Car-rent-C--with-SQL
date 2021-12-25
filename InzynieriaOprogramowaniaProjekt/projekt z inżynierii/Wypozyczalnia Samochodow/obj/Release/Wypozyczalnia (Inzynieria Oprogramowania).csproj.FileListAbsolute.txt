@@ -1,0 +1,107 @@
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe.config
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajSamochody.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.MenuGlowne.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ModyfikacjaKlientow.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.UsuunSamochod.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajKlientow.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.AdministracjaWypozyczeniaSamochodu.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.NaszeSamochody.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ZarzadzajWypozyczeniem.resources
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.CopyComplete
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Start.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csprojAssemblyReference.cache
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajSamochody.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.MenuGlowne.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Start.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Properties.Resources.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.UsuunSamochod.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajKlientow.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.AdministracjaWypozyczeniaSamochodu.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.NaszeSamochody.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ZarzadzajWypozyczeniem.resources
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.GenerateResource.cache
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.exe
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.pdb
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe.config
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.pdb
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.CopyComplete
+F:\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.MenuGlowneUser.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe.config
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Google.Protobuf.dll
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\MySql.Data.dll
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Renci.SshNet.dll
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Google.Protobuf.xml
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\MySql.Data.xml
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Renci.SshNet.xml
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajSamochody.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.UsuunSamochod.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajKlientow.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.AdministracjaWypozyczeniaSamochodu.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.NaszeSamochody.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ZarzadzajWypozyczeniem.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.CopyComplete
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Logowanie.resources
+C:\Users\tomas\Desktop\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.StronaGlowna.resources
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Logowanie.resources
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.StronaGlowna.resources
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajKlientow.resources
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.AdministracjaWypozyczeniaSamochodu.resources
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ZarzadzajWypozyczeniem.resources
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe.config
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Google.Protobuf.dll
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\MySql.Data.dll
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Renci.SshNet.dll
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Google.Protobuf.xml
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\MySql.Data.xml
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Renci.SshNet.xml
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.CopyComplete
+C:\Users\tomas\Desktop\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.NaszaFlota.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe.config
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Google.Protobuf.dll
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\MySql.Data.dll
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Renci.SshNet.dll
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Google.Protobuf.xml
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\MySql.Data.xml
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Release\Renci.SshNet.xml
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Logowanie.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.NaszaFlota.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.StronaGlowna.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajKlientow.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia (Inzynieria Oprogramowania).csproj.CopyComplete
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ONas.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.HistoriaFirmy.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Kontakt.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Doradztwo.resources
+C:\Users\tomas\Desktop\Projekt\DUPLIKAT\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.BMWi8.resources

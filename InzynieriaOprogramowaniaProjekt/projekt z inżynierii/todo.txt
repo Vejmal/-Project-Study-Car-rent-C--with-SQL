@@ -1,0 +1,15 @@
+#1: Gwiazdkowanie hasla, maila na bazie danych.
+#2: Podœwietlanie zak³adki (w której jesteœmy, panelbox menu)
+#3: Wyœwietlane pojazdy w kafelkach, powiêkszaj¹ce siê zdjêcie po najechaniu na kwadrat.
+#4: Usprawnienie wszystkich zak³adek + zawartoœæ informacji (finalna).
+#5: Dodanie okna logowania po wyœwietleniu programu.
+#6: Okno powitalne w programie po zalogwaniu (animacja).
+#7: Dodanie okna: doradztwo, konakt, o nas, historia firmy.
+#8: O nas: dodanie informacji o uczestictwie w eventach, certyfikaty etc.
+#9: Media spo³ecznoœciowe. Zrobiæ fanpage, insta itp.
+#10: Wyœrodkowanie buttonów.
+#11: Usun¹æ zbêdne adnotnacje w programie (te bez kodu!)
+#12: Usun¹æ stronke dla admina, admin niech widzi tylko liste klientów.
+#13: Mini-okienka logowania/rejestracji u¿ytkownika.
+#14: Usun¹æ zbêdne zak³adki .cs - > menu glowne/menu glowne user????Dodaj pojazd??? Chyba ¿e dla admina :)
+#15: Pozmieniaæ "name" dla w³aœciwoœci buttons/textobox etc.

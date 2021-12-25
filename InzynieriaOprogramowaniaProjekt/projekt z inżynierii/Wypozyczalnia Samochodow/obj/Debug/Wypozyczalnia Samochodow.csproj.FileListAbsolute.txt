@@ -1,0 +1,37 @@
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe.config
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.pdb
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.csprojResolveAssemblyReference.cache
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.Form1.resources
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.Properties.Resources.resources
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.WyswietlSamochody.resources
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.csproj.GenerateResource.Cache
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.exe
+c:\users\arek\documents\visual studio 2013\Projects\Wypozyczalnia Samochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.pdb
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe.config
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.exe
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.pdb
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.pdb
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.csprojResolveAssemblyReference.cache
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.WyswietlSamochody.resources
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.csproj.GenerateResource.Cache
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.MenuGlowne.resources
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.UsunSamochody.resources
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe.config
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.exe
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.pdb
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.csprojResolveAssemblyReference.cache
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.MenuGlowne.resources
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.UsunSamochody.resources
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.WyswietlSamochody.resources
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.csproj.GenerateResource.Cache
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe
+C:\Users\Arek\Desktop\Dokumenty i PDF\UWM\II rok I semestr\Programowanie Obiektowe\Kopie Zapasowe projektu z progow\2016-11-14 19;44\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.pdb
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.DodajSamochody.resources
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.DodajKlientow.resources
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.ModyfikacjaKlientow.resources
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.WypozyczanieSamochodow.resources
+C:\Users\Arek\Documents\Visual Studio 2013\Projects\WypozyczalniaSamochodow\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.ZarządzanieWypozyczeniami.resources

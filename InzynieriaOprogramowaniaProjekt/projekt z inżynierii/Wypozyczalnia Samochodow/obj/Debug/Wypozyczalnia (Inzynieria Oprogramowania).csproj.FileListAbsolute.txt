@@ -1,0 +1,31 @@
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.DodajSamochody.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.MenuGlowne.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.MenuGlowneUser.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.Start.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.Properties.Resources.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.UsuunSamochod.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.DodajKlientow.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.AdministracjaWypozyczeniaSamochodu.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.NaszeSamochody.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia_Samochodow.ZarzadzajWypozyczeniem.resources
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia (Inzynieria Oprogramowania).csproj.GenerateResource.Cache
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia (Inzynieria Oprogramowania).csproj.CoreCompileInputs.cache
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.exe
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.pdb
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe.config
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.pdb
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\BouncyCastle.Crypto.dll
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Google.Protobuf.dll
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\MySql.Data.dll
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Renci.SshNet.dll
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Google.Protobuf.xml
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\MySql.Data.xml
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Renci.SshNet.xml
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia (Inzynieria Oprogramowania).csprojResolveAssemblyReference.cache
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Interop.DtrHostLib.dll
+D:\Pliki użytkownika\Student\Pulpit\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia (Inzynieria Oprogramowania).csproj.ResolveComReference.cache
+E:\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\bin\Debug\Wypozyczalnia Samochodow.exe.config
+E:\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia (Inzynieria Oprogramowania).csproj.ResolveComReference.cache
+E:\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.exe
+E:\InzynieriaOprogramowaniaProjekt\projekt z inżynierii\Wypozyczalnia Samochodow\obj\Debug\Wypozyczalnia Samochodow.pdb

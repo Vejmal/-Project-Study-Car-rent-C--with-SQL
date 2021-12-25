@@ -1,0 +1,39 @@
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe.config
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.csprojAssemblyReference.cache
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajSamochody.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.MenuGlowne.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ModyfikacjaKlientow.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.UsunSamochody.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajKlientow.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.WypozyczanieSamochodow.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.WyswietlSamochody.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ZarządzanieWypozyczeniami.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.csproj.CopyComplete
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.UsunSamochod.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.AdministracjaWypozyczeniaSamochodu.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.NaszeSamochody.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ZarzadzajWypozyczeniem.resources
+C:\Users\tomas\Downloads\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.UsuunSamochod.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajSamochody.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.MenuGlowne.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ModyfikacjaKlientow.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.UsuunSamochod.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.DodajKlientow.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.AdministracjaWypozyczeniaSamochodu.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.NaszeSamochody.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.ZarzadzajWypozyczeniem.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.csproj.GenerateResource.cache
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia_Samochodow.Properties.Resources.resources
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe.config
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.exe
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\bin\Release\Wypozyczalnia Samochodow.pdb
+C:\Users\tomas\Desktop\WypozyczalniaSamochodow-master\Wypozyczalnia Samochodow\obj\Release\Wypozyczalnia Samochodow.csproj.CopyComplete
